@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "SumOfDigits.C": "cpp",
+        "PrimeNumbersBetween2Ranges.C": "cpp",
+        "Factorial.C": "cpp",
+        "Anagram.C": "cpp",
+        "ReverseTheWords.C": "cpp",
+        "LargestAndSmallest.C": "cpp",
+        "SortCharacterArray.C": "cpp",
+        "DecimalToBinary.C": "cpp",
+        "IntersectionOfTwoArrays.C": "cpp",
+        "Transpose.C": "cpp",
+        "PowerOfANumber.C": "cpp",
+        "CountOccurences.C": "cpp",
+        "RemoveOccurences.C": "cpp",
+        "PerfectNumber.C": "cpp",
+        "Series.C": "cpp",
+        "Strong.C": "cpp",
+        "SumOfDigitsRaisedToTheirPosition.C": "cpp",
+        "FirstNonRepeatedCharacter.C": "cpp",
+        "ValidPalindrome.C": "cpp",
+        "SumOfFibonacciNumbers.C": "cpp"
+    }
+}
